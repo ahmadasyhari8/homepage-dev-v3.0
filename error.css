@@ -1,0 +1,624 @@
+.mediaViewInfo {
+	--web-view-name: Error;
+	--web-view-id: Error;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-actual-size-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Error;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Error_Class {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Error;
+	--web-view-id: Error;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-actual-size-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Bar_atas_i_Class {
+	fill: url(#Bar_atas_i);
+}
+.Bar_atas_i {
+	position: absolute;
+	overflow: visible;
+	width: 1378px;
+	height: 125px;
+	left: -5px;
+	top: -5px;
+}
+.Logo_Shopee_Class {
+	position: absolute;
+	width: 119px;
+	height: 34.171px;
+	left: 195px;
+	top: 63.829px;
+	overflow: visible;
+}
+.Shopee_Class {
+	left: 36px;
+	top: 1.171px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+.Subtraction_2_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Subtraction_2 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 35.171px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Kolom_Pencarian_Class {
+	position: absolute;
+	width: 677px;
+	height: 33px;
+	left: 350px;
+	top: 63px;
+	overflow: visible;
+}
+.Rectangle_8_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 677px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_9_Class {
+	fill: rgba(250,75,48,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 27px;
+	left: 626px;
+	top: 3px;
+}
+.Masukan_Pencarian_Disini_Class {
+	left: 13px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 9px;
+	color: rgba(129,128,128,1);
+}
+.Saran_1_Class {
+	position: absolute;
+	width: 577px;
+	height: 12px;
+	left: 352px;
+	top: 98px;
+	overflow: visible;
+}
+.Masker_Sensi_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Helm_Bogo_Class {
+	left: 69px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Sepatu_Converse_Class {
+	left: 127px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Sepatu_Kulot_Panjang_Class {
+	left: 208px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Speaker_Bluetooth_Class {
+	left: 307px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Misteri_Box_Class {
+	left: 394px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Jilbab_Instan_Class {
+	left: 452px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Daster_Kekinian_Class {
+	left: 516px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Tulisan_Atas_Class {
+	position: absolute;
+	width: 949px;
+	height: 65.438px;
+	left: 196px;
+	top: 28px;
+	overflow: visible;
+}
+.Jual_Class {
+	left: 0px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+._Class {
+	left: 23px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+.Download_Class {
+	left: 31px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+.Ikuti_kami_di_Class {
+	left: 89px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+.__Class {
+	left: 81px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+.Icon_awesome-facebook_Class {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook {
+	overflow: visible;
+	position: absolute;
+	width: 13.079px;
+	height: 13px;
+	left: 149px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_simple-instagram_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Icon_simple-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 12.231px;
+	height: 12.231px;
+	left: 171px;
+	top: 3.269px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_simple-line_Class {
+	fill: rgba(255,255,255,1);
+}
+.Icon_simple-line {
+	overflow: visible;
+	position: absolute;
+	width: 13.509px;
+	height: 12.865px;
+	left: 191.652px;
+	top: 2.135px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Exclusion_1_Class {
+	fill: rgba(255,255,255,1);
+}
+.Exclusion_1 {
+	overflow: visible;
+	position: absolute;
+	width: 12.263px;
+	height: 12.373px;
+	left: 214.082px;
+	top: 2.881px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-search_Class {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-search {
+	overflow: visible;
+	position: absolute;
+	width: 11.448px;
+	height: 11.872px;
+	left: 798.276px;
+	top: 45.564px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Notifikasi_Class {
+	left: 746px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+.Bantuan_Class {
+	left: 823px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+.Daftar_Class {
+	left: 878px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.Login_Class {
+	left: 924px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+._be_Class {
+	left: 913px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.Union_2_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_2 {
+	overflow: visible;
+	position: absolute;
+	width: 13.443px;
+	height: 14.712px;
+	left: 732px;
+	top: 2.287px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Union_1_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_1 {
+	overflow: visible;
+	position: absolute;
+	width: 13.314px;
+	height: 13.313px;
+	left: 805.75px;
+	top: 1.843px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Union_4_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_4 {
+	overflow: visible;
+	position: absolute;
+	width: 18.227px;
+	height: 18.188px;
+	left: 883px;
+	top: 48.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.ERROR_502_Class {
+	left: 486px;
+	top: 281px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(249,83,47,1);
+}
+.Rectangle_32_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(249,83,47,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 162px;
+	height: 42px;
+	left: 602px;
+	top: 469px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: halamanawal.html;
+	cursor: pointer;
+}
+.Home_Class {
+	left: 652px;
+	top: 474px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(249,83,47,1);
+}
+.Maaf_pilihan_anda_saat_ini_tid_Class {
+	left: 448px;
+	top: 381px;
+	position: absolute;
+	overflow: visible;
+	width: 471px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(249,83,47,1);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Error_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	left: 0;
+	top: 0;
+}

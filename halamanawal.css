@@ -1,0 +1,1654 @@
+.mediaViewInfo {
+	--web-view-name: Halaman Awal;
+	--web-view-id: Halaman_Awal;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-actual-size-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Halaman_Awal;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Halaman_Awal_Class {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Halaman Awal;
+	--web-view-id: Halaman_Awal;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-actual-size-on-double-click: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-add-image-compare: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.vv_Class {
+	display: none;
+	position: absolute;
+	width: 1545px;
+	height: 737.407px;
+	left: -95px;
+	top: 22px;
+	overflow: visible;
+}
+.Bar_atas_j_Class {
+	fill: url(#Bar_atas_j);
+}
+.Bar_atas_j {
+	position: absolute;
+	overflow: visible;
+	width: 1378px;
+	height: 125px;
+	left: -5px;
+	top: -5px;
+}
+.Bar_bawah_Class {
+	fill: rgba(245,245,245,1);
+}
+.Bar_bawah {
+	position: absolute;
+	overflow: visible;
+	width: 1376px;
+	height: 345px;
+	left: -5px;
+	top: 428px;
+}
+.Timeline_Class {
+	position: absolute;
+	width: 967px;
+	height: 191px;
+	left: 187px;
+	top: 145px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.ID1_Class {
+	position: absolute;
+	width: 642px;
+	height: 191px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.ID2_Class {
+	position: absolute;
+	width: 321px;
+	height: 94px;
+	left: 646px;
+	top: 0px;
+	overflow: visible;
+}
+.ID3_Class {
+	position: absolute;
+	width: 321px;
+	height: 94px;
+	left: 646px;
+	top: 97px;
+	overflow: visible;
+}
+.Logo_Shopee_Class {
+	position: absolute;
+	width: 119px;
+	height: 34.171px;
+	left: 195px;
+	top: 63.829px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Shopee_Class {
+	left: 36px;
+	top: 1.171px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+.Subtraction_2_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,0);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Subtraction_2 {
+	overflow: visible;
+	position: absolute;
+	width: 32px;
+	height: 35.171px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Kolom_Pencarian_Class {
+	position: absolute;
+	width: 677px;
+	height: 33px;
+	left: 350px;
+	top: 63px;
+	overflow: visible;
+}
+.Rectangle_8_Class {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 677px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+}
+.Masukan_Pencarian_Disini_Class {
+	left: 13px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 9px;
+	color: rgba(129,128,128,1);
+}
+.Saran_2_Class {
+	position: absolute;
+	width: 921px;
+	height: 26px;
+	left: 213px;
+	top: 394px;
+	overflow: visible;
+}
+.Men_Sale_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.Elektronik_Deals_Class {
+	left: 82px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.Pulsa_Tagihan__Hiburan_Class {
+	left: 178px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.inFahsion_Class {
+	left: 289px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.Shopee_Mart_Class {
+	left: 378px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.Bayar_Di_Tempat_Class {
+	left: 467px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.Murah_Lebay_Class {
+	left: 570px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.Gratis_Ongkir_Xtra_Class {
+	left: 668px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.Cashback__Voucher_Class {
+	left: 767px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.Semua_Promo_Class {
+	left: 859px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	line-height: 12px;
+	margin-top: -1px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(0,0,0,1);
+}
+.Saran_1_Class {
+	position: absolute;
+	width: 577px;
+	height: 12px;
+	left: 352px;
+	top: 98px;
+	overflow: visible;
+}
+.Masker_Sensi_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Helm_Bogo_Class {
+	left: 69px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Sepatu_Converse_Class {
+	left: 127px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Sepatu_Kulot_Panjang_Class {
+	left: 208px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 86px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Speaker_Bluetooth_Class {
+	left: 307px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Misteri_Box_Class {
+	left: 394px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Jilbab_Instan_Class {
+	left: 452px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Daster_Kekinian_Class {
+	left: 516px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+.Tulisan_Atas_Class {
+	position: absolute;
+	width: 949px;
+	height: 65.438px;
+	left: 196px;
+	top: 28px;
+	overflow: visible;
+}
+.Jual_Class {
+	left: 0px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+._Class {
+	left: 23px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+.Download_Class {
+	left: 31px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+.Ikuti_kami_di_Class {
+	left: 89px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+._bk_Class {
+	left: 81px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.0010000000149011613px;
+}
+.Icon_awesome-facebook_Class {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-facebook {
+	overflow: visible;
+	position: absolute;
+	width: 13.079px;
+	height: 13px;
+	left: 149px;
+	top: 2px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Icon_simple-instagram_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 0.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Icon_simple-instagram {
+	overflow: visible;
+	position: absolute;
+	width: 12.231px;
+	height: 12.231px;
+	left: 171px;
+	top: 3.269px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Icon_simple-line_Class {
+	fill: rgba(255,255,255,1);
+}
+.Icon_simple-line {
+	overflow: visible;
+	position: absolute;
+	width: 13.509px;
+	height: 12.865px;
+	left: 191.652px;
+	top: 2.135px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Exclusion_1_Class {
+	fill: rgba(255,255,255,1);
+}
+.Exclusion_1 {
+	overflow: visible;
+	position: absolute;
+	width: 12.263px;
+	height: 12.373px;
+	left: 214.082px;
+	top: 2.881px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Exclusion_2_Class {
+	fill: rgba(250,75,48,1);
+}
+.Exclusion_2 {
+	overflow: visible;
+	position: absolute;
+	width: 48px;
+	height: 27px;
+	left: 780px;
+	top: 38px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Notifikasi_Class {
+	left: 746px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+.Bantuan_Class {
+	left: 823px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(255,255,255,1);
+}
+.Daftar_Class {
+	left: 878px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.Login_Class {
+	left: 924px;
+	top: 1px;
+	position: absolute;
+	overflow: visible;
+	width: 26px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+._bu_Class {
+	left: 913px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 10px;
+	color: rgba(255,255,255,1);
+}
+.Union_2_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_2 {
+	overflow: visible;
+	position: absolute;
+	width: 13.443px;
+	height: 14.712px;
+	left: 732px;
+	top: 2.287px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Union_1_Class {
+	fill: rgba(255,255,255,1);
+}
+.Union_1 {
+	overflow: visible;
+	position: absolute;
+	width: 13.314px;
+	height: 13.313px;
+	left: 805.75px;
+	top: 1.843px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Union_4_Class {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Union_4 {
+	overflow: visible;
+	position: absolute;
+	width: 18.227px;
+	height: 18.188px;
+	left: 883px;
+	top: 48.25px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Kotak_Kategori_Class {
+	position: absolute;
+	width: 967px;
+	height: 293px;
+	left: 187px;
+	top: 442px;
+	overflow: visible;
+}
+.Rectangle_11_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.30000001192092896px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 967px;
+	height: 49px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_12_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 0px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_13_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 97px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_14_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 193px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_15_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 289px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_16_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 386px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_17_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 483px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_18_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 580px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_19_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_19 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 676px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_20_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 773px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_21_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_21 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 870px;
+	top: 49px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_22_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_22 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 0px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_23_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 97px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_24_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_24 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 193px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_25_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_25 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 289px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_26_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 386px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_27_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 483px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_28_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 580px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_29_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 676px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_30_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_30 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 773px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Rectangle_31_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(245,245,245,1);
+	stroke-width: 0.699999988079071px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 122px;
+	left: 870px;
+	top: 171px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: error.html;
+	cursor: pointer;
+}
+.Kategori_Class {
+	left: 204px;
+	top: 457px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	color: rgba(129,128,128,1);
+	text-transform: uppercase;
+}
+.Isi_Kategori_Class {
+	position: absolute;
+	width: 933px;
+	height: 152px;
+	left: 208px;
+	top: 571px;
+	overflow: visible;
+}
+.Elektronik_Class {
+	left: 4px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Komputer__Aksesoris_Class {
+	left: 94px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Handphone__Aksesoris_Class {
+	left: 186px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Pakaian_Pria_Class {
+	left: 288px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Sepatu_Pria_Class {
+	left: 387px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Tas_Pria_Class {
+	left: 493px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Aksesoris_Fahsion_Class {
+	left: 584px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Jam_Tangan_Class {
+	left: 677px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Kesehatan_Class {
+	left: 775px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Hobi__Koleksi_Class {
+	left: 861px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Makanan__Minuman_Class {
+	left: 0px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Perawatan__Kecantikan_Class {
+	left: 94px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Perlengkapan_Rumah_Class {
+	left: 188px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Pakaian_Wanita_Class {
+	left: 280px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Fahsion_Muslim_Class {
+	left: 376px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Fahsion_Bayi__Anak_Class {
+	left: 475px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Ibu__Bayi_Class {
+	left: 582px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Sepatu_Wanita_Class {
+	left: 669px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Tas_Wanita_Class {
+	left: 774px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+.Otomotif_Class {
+	left: 874px;
+	top: 122px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 11px;
+	color: rgba(0,0,0,1);
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 1;
+	}
+	37.5% {
+		opacity: 1;
+	}
+	50% {
+		opacity: 0;
+	}
+	87.5% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Halaman_Awal_snapshot_Class {
+	animation: fadein 5s linear 0s infinite;
+	pointer-events: none;
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	left: 0;
+	top: 0;
+}
